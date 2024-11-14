@@ -1,6 +1,6 @@
 # About me
 
-I'm a software developer with 2+ years of experience. I’m passionate about functional programming languages and love exploring their innovative applications. Currently, I’m looking to expand my knowledge and tackle new challenges in software development. I graduated in mathematics at the Jagiellonian University in Krakow.
+I'm a software developer with 2+ years of experience. I’m passionate about functional programming languages and love exploring their innovative applications. Currently, I’m looking to expand my knowledge and tackle new challenges in software development. I graduated in Computer Mathematics at the Jagiellonian University in Krakow.
 
 **Main programming languages and technologies**
 

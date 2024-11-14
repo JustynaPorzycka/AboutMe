@@ -19,7 +19,7 @@ I'm a software developer with 2+ years of experience. I’m passionate about fun
 - [Eigenvalues algorithms](https://github.com/JustynaPorzycka/eigenvalue-algorithms)
 - [Communicator App](https://github.com/ZbiStr/communicator) (Team project)
 - [Uni courses repository](https://github.com/JustynaPorzycka/uni-courses)
-	- Efficient Python programming
+	- Efficient `Python` programming
 	- Logic programming `Prolog`
 	- Functional programming `Haskell`
 

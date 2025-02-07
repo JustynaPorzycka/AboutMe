@@ -1,6 +1,6 @@
 # About me
 
-I'm a software developer with 2+ years of experience. I’m passionate about functional programming languages and love exploring their innovative applications. Currently, I’m looking to expand my knowledge and tackle new challenges in software development. I graduated in Computer Mathematics at the Jagiellonian University in Krakow.
+I'm a software developer with 2+ years of experience. passionate about functional programming languages and love exploring their innovative applications. Currently, I'm expanding my expertise in full-stack development by learning React and PostgreSQL while continuously improving my skills in Elixir. I graduated in Computer Mathematics at the Jagiellonian University in Krakow. I love solving complex problems through code. Always open to collaboration and knowledge sharing!
 
 **Main programming languages and technologies**
 

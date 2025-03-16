@@ -15,12 +15,12 @@ I'm a software developer with 2+ years of experience. passionate about functiona
 
 
 ## Projects and courses
-- [Eigenvalues algorithms](https://github.com/JustynaPorzycka/eigenvalue-algorithms)
-- [Communicator App](https://github.com/ZbiStr/communicator) (Team project)
 - [Uni courses repository](https://github.com/JustynaPorzycka/uni-courses)
 	- Efficient `Python` programming
 	- Logic programming `Prolog`
 	- Functional programming `Haskell`
+- [Eigenvalues algorithms](https://github.com/JustynaPorzycka/eigenvalue-algorithms)
+- [Communicator App](https://github.com/ZbiStr/communicator) (Team project)
 
 ### Thesis
 - [Master thesis](https://github.com/JustynaPorzycka/master-thesis) Title: Selected Applications of the Theory of Linear Algebraic Groups
